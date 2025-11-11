@@ -1,0 +1,46 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                {
+  "evidences": [
+    {
+      "evidence_id": "EVID001",
+      "component_id": "COMP001",
+      "evidence_name": "Password Policy Configuration Screenshot",
+      "evidence_type": "Screenshot",
+      "uploaded_by": "admin",
+      "upload_date": "2025-11-11",
+      "verification_status": "Pending",
+      "description": "Screenshot from Group Policy Editor showing password complexity and expiration settings."
+    },
+    {
+      "evidence_id": "EVID002",
+      "component_id": "COMP002",
+      "evidence_name": "Firewall Enabled Report",
+      "evidence_type": "Document",
+      "uploaded_by": "security_user",
+      "upload_date": "2025-11-11",
+      "verification_status": "Approved",
+      "description": "System-generated report showing firewall is enabled on all servers."
+    },
+    {
+      "evidence_id": "EVID003",
+      "component_id": "COMP003",
+      "evidence_name": "SSH Config File",
+      "evidence_type": "Configuration File",
+      "uploaded_by": "linux_admin",
+      "upload_date": "2025-11-11",
+      "verification_status": "Pending",
+      "description": "Configuration file showing 'PermitRootLogin no' parameter set."
+    },
+    {
+      "evidence_id": "EVID004",
+      "component_id": "COMP004",
+      "evidence_name": "Patch Compliance Report",
+      "evidence_type": "Report",
+      "uploaded_by": "compliance_team",
+      "upload_date": "2025-11-11",
+      "verification_status": "Approved",
+      "description": "Weekly patch compliance report generated by vulnerability scanner."
+    }
+  ]
+}
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
