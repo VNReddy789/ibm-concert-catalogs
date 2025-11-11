@@ -1,0 +1,40 @@
+{
+    "components": [
+        {
+            "component_id": "COMP001",
+            "catalog_id": "CAT001",
+            "component_name": "Password Policy Enforcement",
+            "description": "Ensure complex passwords are enforced and regularly rotated.",
+            "control_category": "Access Control",
+            "framework_reference": "CIS 1.1, ISO27001-A.9.2.3",
+            "status": "Active"
+        },
+        {
+            "component_id": "COMP002",
+            "catalog_id": "CAT001",
+            "component_name": "Firewall Configuration",
+            "description": "Ensure Windows Firewall is enabled and correctly configured.",
+            "control_category": "Network Security",
+            "framework_reference": "CIS 9.1, ISO27001-A.13.1.1",
+            "status": "Active"
+        },
+        {
+            "component_id": "COMP003",
+            "catalog_id": "CAT002",
+            "component_name": "Root Login Restriction",
+            "description": "Restrict direct root logins via SSH to improve system security.",
+            "control_category": "Access Control",
+            "framework_reference": "CIS 5.1, ISO27001-A.9.2.4",
+            "status": "Active"
+        },
+        {
+            "component_id": "COMP004",
+            "catalog_id": "CAT002",
+            "component_name": "Patch Management",
+            "description": "Ensure the latest security updates are applied regularly.",
+            "control_category": "Vulnerability Management",
+            "framework_reference": "CIS 3.2, ISO27001-A.12.6.1",
+            "status": "Active"
+        }
+    ]
+}
